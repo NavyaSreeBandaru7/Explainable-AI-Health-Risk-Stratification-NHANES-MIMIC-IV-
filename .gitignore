@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (never commit datasets)
+data/raw/
+data/processed/
+*.xpt
+*.csv
+*.parquet
+
+# Outputs
+models/
+mlruns/
+reports/*.png
+reports/*.pdf
+
+# OS
+.DS_Store
+Thumbs.db
