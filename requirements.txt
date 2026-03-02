@@ -1,0 +1,11 @@
+pandas>=2.2
+numpy>=1.26
+scikit-learn>=1.4
+lightgbm>=4.3
+shap>=0.45
+fairlearn>=0.10
+matplotlib>=3.8
+pyreadstat>=1.2
+requests>=2.32
+jupyter>=1.0
+joblib>=1.3
